@@ -1,1 +1,1 @@
-Command Prompt_XNAT_231206.txt
+ignore/
